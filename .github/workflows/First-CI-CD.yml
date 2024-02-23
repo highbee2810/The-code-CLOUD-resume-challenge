@@ -19,4 +19,5 @@ jobs:
 
       - name: Sync to S3
         run: |
-          aws s3 sync .http://oyinkolade-2810.s3-website-us-east-1.amazonaws.com
+          aws s3 sync . s3://oyinkolade-2810
+
