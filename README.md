@@ -29,4 +29,4 @@ Follow these steps to set up the CI/CD pipeline:
 1. **Clone Repository**: Clone this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/highbee2810/resume.git
