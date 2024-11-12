@@ -3,7 +3,7 @@ name: Deploy to EC2
 on:
   push:
     branches:
-      - main  # Or any branch you'd like to trigger deployment from
+      - master # Or any branch you'd like to trigger deployment from
 
 jobs:
   deploy:
